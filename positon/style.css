@@ -1,0 +1,25 @@
+.div1{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(6, 94, 6);
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.div2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(247, 12, 12);
+    position: absolute;
+    border-radius:50%;
+    margin: 4% 30%;
+
+    
+
+}
+P{
+    text-align:right;
+    color: rgb(252, 6, 6);
+    
+    
+}
